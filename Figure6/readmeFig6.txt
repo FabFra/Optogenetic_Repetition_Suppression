@@ -7,7 +7,10 @@ In each Matlab structure:
 
 In each of these structures:
 
-- "Compound" contains dat for the condition with S1 consisting of compound stimulation, "Vis" with S1 consisting of a visual stimulus alone;
+- "Compound" contains dat for the condition with S1 consisting of compound stimulation, "Vis" with S1 consisting of a visual stimulus alone, "Opto" with S1 consisting of photo-stimulation.    
+
+Only for the "Exc" structure, "Sum" is the sum of the firing rate for the conditions "Vis" and "Opto", as shown in Figure S6B and S6C
+
 
 In each of these structures:
 
